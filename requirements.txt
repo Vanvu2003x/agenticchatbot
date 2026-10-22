@@ -1,0 +1,7 @@
+fastapi==0.159.1
+uvicorn==0.54.0
+langmem==0.0.30
+langgraph==1.2.16
+langchain-openai==1.7.2
+pytest==9.1.1
+httpx==0.28.1

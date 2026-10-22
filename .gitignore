@@ -1,0 +1,12 @@
+node_modules/
+dist/
+.venv/
+data/
+.env*
+__pycache__/
+.pytest_cache/
+*.log
+.playwright-cli/
+output/
+# Private infrastructure audit; not part of the chatbot source distribution.
+docs/server-comparison-2026-10-22.md
